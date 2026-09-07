@@ -181,8 +181,8 @@ public class Orders extends JFrame {
 
                                 "jdbc:oracle:thin:@localhost:1521:orcl",
 
-                                "bca",
-                                "bca"
+                                "your username",
+                                "your password"
                             );
 
 
@@ -305,8 +305,8 @@ public class Orders extends JFrame {
 
                                 "jdbc:oracle:thin:@localhost:1521:orcl",
 
-                                "bca",
-                                "bca"
+                                "your username",
+                                "your password"
                             );
 
 
@@ -420,8 +420,8 @@ public class Orders extends JFrame {
 
                                 "jdbc:oracle:thin:@localhost:1521:orcl",
 
-                                "bca",
-                                "bca"
+                                "your username",
+                                "your password"
                             );
 
 
@@ -508,8 +508,8 @@ public class Orders extends JFrame {
 
                                 "jdbc:oracle:thin:@localhost:1521:orcl",
 
-                                "bca",
-                                "bca"
+                                "your username",
+                                "your password"
                             );
 
 
