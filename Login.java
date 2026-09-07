@@ -161,7 +161,7 @@ public class Login {
 
                 try {
                     Class.forName("oracle.jdbc.driver.OracleDriver");
-                    Connection con =DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:orcl","bca","bca");
+                    Connection con =DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:orcl","your username","your password");
                     String email =txtEmail.getText();
                     String password =new String(txtPassword.getPassword());
                     PreparedStatement pstmt =con.prepareStatement("SELECT * FROM customers " +"WHERE email=? AND password=?");
