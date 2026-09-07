@@ -166,8 +166,8 @@ public class Db_operations extends JFrame {
 
                                 "jdbc:oracle:thin:@localhost:1521:orcl",
 
-                                "bca",
-                                "bca"
+                                "your username",
+                                "your password"
                             );
 
 
@@ -290,8 +290,8 @@ public class Db_operations extends JFrame {
 
                                 "jdbc:oracle:thin:@localhost:1521:orcl",
 
-                                "bca",
-                                "bca"
+                                "your username",
+                                "your password"
                             );
 
 
@@ -403,8 +403,8 @@ public class Db_operations extends JFrame {
 
                                 "jdbc:oracle:thin:@localhost:1521:orcl",
 
-                                "bca",
-                                "bca"
+                                "your username",
+                                "your password"
                             );
 
 
@@ -490,8 +490,8 @@ public class Db_operations extends JFrame {
 
                                 "jdbc:oracle:thin:@localhost:1521:orcl",
 
-                                "bca",
-                                "bca"
+                                "your username",
+                                "your password"
                             );
 
 
